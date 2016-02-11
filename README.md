@@ -5,4 +5,4 @@ Defenetly welcome world of programing
 
 Im Nemanja and this is my first contact with GitHub and programing.
 <br>
-Work hard Play harder
+<strong>Work hard Play harder!</strong>
